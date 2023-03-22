@@ -10,9 +10,9 @@
 
 ## Блок 1.1: Макеты для практики
 Оценка знаний верстки и качества кода HTML/CSS  
--[Задание 1](https://code.tutsplus.com/ru/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
--[Задание 2](https://www.figma.com/file/HbQE7KDbfSfqOEowcKz5O1/Untitled?node-id=0%3A1&t=xLqihyWkzSKsjiNM-0)
--[Задание 3](https://www.figma.com/file/gBObzdn16Asemn3YSqDdFk/Chat-Desktop-App-macOS?t=lPAMly49h04AfVc7-0)
+- [Задание 1](https://code.tutsplus.com/ru/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
+- [Задание 2](https://www.figma.com/file/HbQE7KDbfSfqOEowcKz5O1/Untitled?node-id=0%3A1&t=xLqihyWkzSKsjiNM-0)
+- [Задание 3](https://www.figma.com/file/gBObzdn16Asemn3YSqDdFk/Chat-Desktop-App-macOS?t=lPAMly49h04AfVc7-0)
 
 
 #### Работа с гит
