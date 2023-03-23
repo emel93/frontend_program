@@ -38,7 +38,7 @@
 
 #### Доп информация:
 - [Немного о доступности](https://medium.com/@ABatickaya/%D0%BF%D0%B8%D1%88%D0%B5%D0%BC-html-%D0%BD%D0%B5-%D0%B7%D0%B0%D0%B1%D1%8B%D0%B2%D0%B0%D1%8F-%D0%BE-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BD%D0%BE%D1%81%D1%82%D0%B8-9ffbf97ecbe7)
-- [Макеев про кнопки, ссылки и доступность (видео)](чhttps://www.youtube.com/watch?v=MWJKwn_gKR4)
+- [Макеев про кнопки, ссылки и доступность (видео)](https://www.youtube.com/watch?v=MWJKwn_gKR4)
 - [img или background](https://habr.com/ru/post/566018/)
 - [Что такое svg](https://timeweb.com/ru/community/articles/chto-takoe-svg-grafika-i-kak-s-ney-rabotat)
 - [Как анимировать svg](https://habr.com/ru/post/450924/)
@@ -128,20 +128,20 @@
 
 ## Блок 1.5: JavaScript в браузере
 
-[Требования к стилю кода](https://learn.javascript.ru/coding-style)  
-[Введение](https://learn.javascript.ru/intro)
-[Переменные](https://learn.javascript.ru/variables)
-[Типы данных](https://learn.javascript.ru/types)
-[Приведение типов](https://learn.javascript.ru/type-conversions)
-[Операторы](https://learn.javascript.ru/operators)
-[Операторы сравнения](https://learn.javascript.ru/comparison)
-[Условные ветвления](https://learn.javascript.ru/ifelse)
-[Логические операторы](https://learn.javascript.ru/logical-operators)
-[Циклы](https://learn.javascript.ru/while-for)
-[Switch-case](https://learn.javascript.ru/switch)
-[Функции](https://learn.javascript.ru/function-basics)
-[DOM](https://learn.javascript.ru/dom-nodes)
-[Введение в события](https://learn.javascript.ru/events)
+- [Требования к стилю кода](https://learn.javascript.ru/coding-style)  
+- [Введение](https://learn.javascript.ru/intro)
+- [Переменные](https://learn.javascript.ru/variables)
+- [Типы данных](https://learn.javascript.ru/types)
+- [Приведение типов](https://learn.javascript.ru/type-conversions)
+- [Операторы](https://learn.javascript.ru/operators)
+- [Операторы сравнения](https://learn.javascript.ru/comparison)
+- [Условные ветвления](https://learn.javascript.ru/ifelse)
+- [Логические операторы](https://learn.javascript.ru/logical-operators)
+- [Циклы](https://learn.javascript.ru/while-for)
+- [Switch-case](https://learn.javascript.ru/switch)
+- [Функции](https://learn.javascript.ru/function-basics)
+- [DOM](https://learn.javascript.ru/dom-nodes)
+- [Введение в события](https://learn.javascript.ru/events)
 
 #### Доп материалы:
 - [Dom навигация](https://learn.javascript.ru/dom-navigation)
@@ -149,7 +149,7 @@
 - [Интерфейсные события](https://learn.javascript.ru/event-details)
 
 #### Задание
-Свернуть  блок из [макета](https://www.figma.com/file/VSoue7AJznrlq9RK83IMDD/%D0%91%D0%BB%D0%BE%D0%BA-1.5%3A-JavaScript-%D0%B2-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%D0%B5?node-id=0-1864&t=5XcfKymyn0FBHAeQ-4), добавить к измерению репозиторию.
+Свернуть  блок из [макета](https://www.figma.com/file/VSoue7AJznrlq9RK83IMDD/%D0%91%D0%BB%D0%BE%D0%BA-1.5%3A-JavaScript-%D0%B2-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%D0%B5?node-id=0-1864&t=5XcfKymyn0FBHAeQ-4).
 Блок должен иметь разное количество элементов при разной ширине экранов.  
 По нажатию на "Показать все" открываются все ссылки, по "Скрыть" сворачиваются обратно.  
 На мобильном инициируем [этот слайдер](https://swiperjs.com/) (погуглите, как это сделать только для мобилки, переключение при ресайзе не обязательно). На отличие набора брендов при разных разрешениях не обращайте внимание, главное чтобы их количество и внешний вид соответствовал макету.
