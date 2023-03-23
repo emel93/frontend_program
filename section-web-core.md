@@ -9,17 +9,17 @@
 
 
 ## Блок 1.1: Макеты для практики
-Оценка знаний верстки и качества кода HTML/CSS  
+#### Оценка знаний верстки и качества кода HTML/CSS  
 - [Задание 1](https://code.tutsplus.com/ru/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 - [Задание 2](https://www.figma.com/file/HbQE7KDbfSfqOEowcKz5O1/Untitled?node-id=0%3A1&t=xLqihyWkzSKsjiNM-0)
 - [Задание 3](https://www.figma.com/file/gBObzdn16Asemn3YSqDdFk/Chat-Desktop-App-macOS?t=lPAMly49h04AfVc7-0)
 
 
 #### Работа с гит
-[Базовый курс по Git](https://www.youtube.com/playlist?list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR)  
-[Learn Git Branching](https://learngitbranching.js.org/) - Первые 2 задания  
-[Как выложить свой проект на GitHub](https://maxsite.org/page/how-to-put-your-project-on-github-com)
-[как настроить Github pages](https://developer.mozilla.org/ru/docs/Learn/Common_questions/Using_Github_pages)
+- [Базовый курс по Git](https://www.youtube.com/playlist?list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR)  
+- [Learn Git Branching](https://learngitbranching.js.org/) - Первые 2 задания  
+- [Как выложить свой проект на GitHub](https://maxsite.org/page/how-to-put-your-project-on-github-com) 
+- [как настроить Github pages](https://developer.mozilla.org/ru/docs/Learn/Common_questions/Using_Github_pages) 
 
 #### Удобные графические редакторы для Git
 - Встроенные инструменты WebStorm
