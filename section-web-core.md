@@ -86,7 +86,7 @@
 - flex и grid самые актуальная технологии, на данный момент
 
 #### Задание
-Сверстать блок из [макета](https://www.figma.com/file/3rqvXG3YwNupBvgTCMooiy/%D0%91%D0%BB%D0%BE%D0%BA-1.3%3A-%D0%9F%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%B5%D1%82%D0%BE%D0%BA-%2B-%D0%91%D0%AD%D0%9C-%D0%B8%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5?node-id=0%3A312&t=jJKMZDsovvVxSPjT-1), выложить на Githab/Gihub pages.
+Сверстать блок из [макета](https://www.figma.com/file/q3FIPZpIAwxM0gzZnTBL5b/%D0%91%D0%BB%D0%BE%D0%BA-1.3%3A-%D0%9F%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%B5%D1%82%D0%BE%D0%BA-%2B-%D0%91%D0%AD%D0%9C-%D0%B8%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5?node-id=0%3A312&t=HCT8Kn1in6uMEAB9-1), выложить на Githab/Gihub pages.
 - Это часть макета из блока 1.6, поэтому выделяйте общие элементы исходя из итогового макета.
 - Для верстки использовать flexbox.  
 - Используем подход Mobile First: Сначала верстаем версию на 320px - потом прописываем измнения для остальных экранов  
@@ -113,7 +113,7 @@
 - [Контекст наложения](https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context)
 
 #### Задание
-Сверстать блок из [макета](https://www.figma.com/file/mQU2ivQ2OK797KI9x8j7DX/%D0%91%D0%BB%D0%BE%D0%BA-1.4%3A-%D0%9F%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%BD%D1%83%D1%82%D0%B0%D1%8F-%D1%81%D1%82%D0%B8%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F?node-id=0%3A312&t=oC0kRLaGviucmD5e-1), кладём  в доступный файл в ближайший репозиторий.
+Сверстать блок из [макета](https://www.figma.com/file/zFV5wSSEAxvvZuQByZfrfC/%D0%91%D0%BB%D0%BE%D0%BA-1.4%3A-%D0%9F%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%BD%D1%83%D1%82%D0%B0%D1%8F-%D1%81%D1%82%D0%B8%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F?node-id=0%3A312&t=C7GTo6EUIHKBStpt-1), кладём  в доступный файл в ближайший репозиторий.
 Блок должен быть шириной 320 пикселей и фиксироваться в левой части экрана независимо от размера экрана. 
 При наведении стиль кнопок плавно меняется, возьмите для этого какой-нибудь css filter или opacity.
 
@@ -149,7 +149,7 @@
 - [Интерфейсные события](https://learn.javascript.ru/event-details)
 
 #### Задание
-Свернуть  блок из [макета](https://www.figma.com/file/7Aydx1qy2l56BJYrIDlHFq/%D0%91%D0%BB%D0%BE%D0%BA-1.5%3A-JavaScript-%D0%B2-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%D0%B5?node-id=0%3A312&t=dGww9JjOvv9cuZX8-1), добавить к измерению репозиторию.
+Свернуть  блок из [макета](https://www.figma.com/file/VSoue7AJznrlq9RK83IMDD/%D0%91%D0%BB%D0%BE%D0%BA-1.5%3A-JavaScript-%D0%B2-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%D0%B5?node-id=0%3A312&t=5XcfKymyn0FBHAeQ-1), добавить к измерению репозиторию.
 Блок должен иметь разное количество элементов при разной ширине экранов.  
 По нажатию на "Показать все" открываются все ссылки, по "Скрыть" сворачиваются обратно.  
 На мобильном инициируем [этот слайдер](https://swiperjs.com/) (погуглите, как это сделать только для мобилки, переключение при ресайзе не обязательно). На отличие набора брендов при разных разрешениях не обращайте внимание, главное чтобы их количество и внешний вид соответствовал макету.
